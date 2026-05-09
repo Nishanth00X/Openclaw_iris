@@ -2,7 +2,7 @@ name: Cloud Agent Sync
 on:
   push:
     branches:
-      - main
+      - master
     paths:
       - '**.md'
 
