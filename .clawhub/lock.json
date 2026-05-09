@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "skills": {
+    "gmail-inbox-zero-triage": {
+      "version": "1.0.1",
+      "installedAt": 1778279734173
+    },
+    "gmail-skill": {
+      "version": "1.2.0",
+      "installedAt": 1778282134512
+    },
+    "gmail": {
+      "version": "1.0.8",
+      "installedAt": 1778282203894
+    },
+    "sherpa-onnx-tts-andy27725": {
+      "version": "1.0.0",
+      "installedAt": 1778283178649
+    },
+    "sherpa-onnx-tts": {
+      "version": "0.1.0",
+      "installedAt": 1778285187778
+    }
+  }
+}
